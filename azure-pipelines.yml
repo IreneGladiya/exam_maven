@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: lastagent
+pool: reinaagent
 
 steps:
 - task: Maven@4
